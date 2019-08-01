@@ -1,0 +1,73 @@
+[
+    {
+        "ad_takeovers": {
+            "leaderboard": {
+                "enabled": true,
+                "contents": {
+                    "html": "<b>This has been overriden.<\/b>"
+                }
+            },
+            "billboard": {
+                "enabled": true,
+                "contents": {
+                    "img": {
+                        "src": "rev\/ads\/c134_bill.jpg"
+                    },
+                    "link": {
+                        "url": "http:\/\/pos-systems-review.toptenreviews.com\/"
+                    }
+                }
+            },
+            "skyscraper": {
+                "enabled": true,
+                "contents": {
+                    "img": {
+                        "src": "rev\/ads\/c134_sky.jpg"
+                    },
+                    "link": {
+                        "url": "http:\/\/pos-systems-review.toptenreviews.com\/"
+                    }
+                }
+            },
+            "text_ad_top": {
+                "enabled": true,
+                "use_product_buy_button": "39_58029",
+                "contents": {
+                    "img": {
+                        "src": "rev\/ads\/c134_ttop.jpg"
+                    },
+                    "link": {
+                        "url": "http:\/\/www.barnesandnoble.com\/u\/nook-glowlight-ereader\/379004122?cm_mmc=TTR-_-NOOK-_-Ereader-_-NativeTextAds&sourceId=H000000050&utm_source=TTR&utm_medium=Media&utm_term=Display&utm_content=NativeAds&utm_campaign=Spring2014"
+                    }
+                }
+            },
+            "text_ad_bottom": {
+                "enabled": false,
+                "tracking_pixel": "path\/to\/image.png",
+                "contents": {
+                    "img": {
+                        "src": "rev\/ads\/c134_tbot.jpg"
+                    }
+                }
+            },
+            "mobile_bottom": {
+                "enabled": false,
+                "contents": {
+                    "img": {
+                        "src": "rev\/ads\/c134_3scmobad.jpg"
+                    }
+                }
+            }
+        },
+        "category_id": "134",
+        "doc_type": "ad_takeover",
+        "enrichmentFields": {
+            "pricing": [
+                "39_58029"
+            ]
+        },
+        "guid": "33_3_134",
+        "product_id": null,
+        "status": "Published"
+    }
+]

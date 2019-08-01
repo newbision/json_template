@@ -1,0 +1,60 @@
+{
+    "guid": "3_39",
+    "doc_type": "category",
+    "top_category_id": "39",
+    "display_name": "DVD Copy Software Review",
+    "url": "http://dvd-copy-software-review.toptenreviews.com/",
+    "paginate": "1",
+    "refresh_date": "2014-06-30 10:36:13",
+    "credit_status": "1",
+    "cat_year": "2015",
+    "featured_status": "0",
+    "featured_url": "",
+    "isCE": "0",
+    "pdf_link": "cat_39.pdf",
+    "images":[],
+    "category_tree":["3_39","3_464"],
+    "benchmarks": [
+        {
+            "1": {
+                "products": {
+                    "324": "20",
+                    "50284": "30",
+                    "325": "20",
+                    "59785": "30",
+                    "58217": "60",
+                    "59792": "30",
+                    "58216": "45",
+                    "329": "60",
+                    "59787": "60",
+                    "332": "60",
+                    "52032": "20",
+                    "344": "45",
+                    "51613": "120",
+                    "349": "60",
+                    "327": "60",
+                    "328": "60",
+                    "334": "60",
+                    "346": "60",
+                    "347": "60"
+                },
+                "name": "Time to Complete Copy",
+                "display": "1",
+                "description": "This is the length of time it takes a program to copy a whole DVD.",
+                "units": "Minutes",
+                "units_top": "",
+                "prepend": "",
+                "append": "",
+                "avg": 47.14
+            }
+        }
+    ],
+    "enrichmentFields": {
+        "users": ["44_2125"],
+        "channels": ["1_2","1_15"],
+        "categories": ["3_464"],
+        "related_comparisons": ["3_40","3_118","3_124","3_168","3_190","3_464","3_26","3_28","3_36","3_47","3_54","3_70","3_78","3_79","3_80"],
+        "ranked_products": ["4_324","4_50284","4_325","4_59785","4_58217","4_59792","4_58216","4_329","4_59787","4_332","4_52032","4_344","4_59787","4_349"],
+        "configurators":""
+    }
+}
