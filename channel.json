@@ -1,0 +1,24 @@
+{
+	"guid":"1_2",
+	"doc_type":"channel",
+	"name":"Software",
+	"url": "http://software.toptenreviews.com/",
+	"on_homepage": 1,
+	"parent_tree":[1],
+	"enrichmentFields":{
+		"channels":["1_8","1_9","1_10","1_11","1_12","1_13","1_14","1_15","1_16","1_17","1_18"]
+	}
+},
+
+{
+	"guid":"1_17",
+	"doc_type":"channel",
+	"name":"Security &amp; Privacy",
+	"url": "http://software.toptenreviews.com/security-privacy/",
+	"subchannels":[],
+	"on_homepage": 0,
+	"parent_tree":[2,1],
+	"enrichmentFields":{
+		"channels":[]
+	}
+}
