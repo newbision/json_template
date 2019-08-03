@@ -1,0 +1,459 @@
+{
+    "slug": "www.toptenreviews.com",
+    "guid": "35_1",
+    "doc_type": "homepage",
+    "meta_data": {
+        "url": "http://www.toptenreviews.com/",
+        "seo": {
+            "og_type": "article",
+            "og_title": "Top Ten Reviews | Expert Product Reviews",
+            "description": "Top Ten Reviews is the place to read insightful product reviews, business services reviews, software ratings, and electronics comparisons to stay informed.",
+            "twitter_card": "summary",
+            "page_title": "Top Ten Reviews | Expert Product Reviews"
+        }
+    },
+    "page_header": "Software",
+    "page_intro": "Software is a term that has evolved over the last few years. While it used to apply almost exclusively to data found on a physical disk or CD-ROM in a box, it now can apply to online applications and Software as a Service (SaaS). Nevertheless, whether the software is centrally hosted in the cloud or installed on your physical computer, it is still what makes your hardware work. Our Top Ten Reviews software channel will help you determine which software is best for your business or personal needs.",
+    "about": "<p>Finding the right software can be a complex decision. Our reviewers carefully evaluate each application and narrow the field down to the most recent versions of top-ranked software. This allows you to make a decision without having to sift through the overwhelming number of available options. We then compare each product side by side so that you can see, at a glance, which software has the features you want.</p>\r\n<p>Our team of experts approaches each piece of software as a consumer would, and looks beyond the sales pitches and the marketing jargon. It doesn't matter if you're looking for the <a href=\"http://anti-virus-software-review.toptenreviews.com/\">best antivirus software</a>, <a href=\"http://photo-editing-software-review.toptenreviews.com/\">best photo editing software</a>, <a href=\"http://personal-finance-software-review.toptenreviews.com/\">best personal finance software</a> or the top choices in <a href=\"http://guitar-lesson-software-review.toptenreviews.com/\">guitar lesson software</a> - this channel covers an extensive variety of suites and applications.</p>",
+    "enrichmentFields": {
+        "hero_images": [
+            "38_1",
+            "38_6",
+            "38_9",
+            "38_43",
+            "38_44",
+            "38_45",
+            "38_46",
+            "38_47"
+        ],
+        "channels": [
+            "1_2",
+            "1_3",
+            "1_4",
+            "1_19",
+            "1_59",
+            "1_90",
+            "1_108",
+            "1_119",
+            "1_124",
+            "1_135"
+        ],
+        "portal_tabs":[
+            "35_1_top",
+            "35_1_latestcontent",
+            "35_1_aboutus",
+            "35_1_productbuzz"
+        ]
+    }
+},
+{
+      "guid":"35_1_top",
+      "slug":"www.toptenreviews.com/?Top",
+      "doc_type": "portal_tab",
+      "link_name":"Top Comparisons",
+      "enrichmentFields": {
+        "featured_comparisons": [
+            "3_798","3_108","3_508","3_143","3_20","3_130","3_796","3_111","3_134","3_98","3_621","3_542","3_868","3_922","3_683","3_110","3_1106","3_569","3_102","3_450","3_351","3_75","3_662","3_413","3_59","3_967","3_768","3_78","3_142","3_197","3_194","3_41","3_39","3_330","3_53","3_93","3_323","3_824","3_664","3_654","3_228"
+        ]
+      }
+},
+{
+      "guid":"35_1_latestcontent",
+      "slug":"www.toptenreviews.com/?LatestContent",
+      "doc_type": "portal_tab",
+      "link_name":"Latest Comparisons"
+},
+{
+      "guid":"35_1_aboutus",
+      "slug":"www.toptenreviews.com/?AboutUs",
+      "doc_type": "portal_tab",
+      "link_name":"About Us"
+},
+
+{
+    "guid":"35_1_productbuzz",
+    "slug":"www.toptenreviews.com/?ProductBuzz",
+    "doc_type":"portal_tab",
+    "tiles": [
+        {
+            "timeStamp": 1413252009,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154700933690573&id=71800775572",
+            "content": "Happy Columbus Day!<br /> <br /> Here&#039;s a quick rundown of the 5 biggest misconceptions about Columbus:<br/><br/>If you think Columbus discovered the Americas or died a poor man, think again.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413232210,
+            "url": "https://twitter.com/TopTenReviews/status/521842869200371712",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Happy #ColumbusDay!&#10;&#10;Here&#39;s a quick rundown of the 5 biggest misconceptions about Columbus: http://oak.ctx.ly/r/1v19i&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413239407,
+            "url": "https://plus.google.com/103069816617262635621/posts/TqPKbnnZXY9",
+            "content": "Here are some of the biggest naming mistakes entrepreneurs make and why you should avoid them.﻿",
+            "imgUrl": "https://lh3.googleusercontent.com/proxy/q5CLihyxUsepO8siqUVKdc3PiMY5eKZZ_HBrMZEdG3aMlFRab326aGMafAAlr8OuCkSkOjEMoN0Z9-Dl8cUQxHbYjKX81sPwRhySWHx7HgwWoYN9hpfkYFhYVyFvUDgnYRRF1zP_iEdwbIAdnQ7U8g8Bkq48YC9FMVUY-A=w506-h303",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413241875,
+            "url": "http://www.facebook.com/71800775572/photos/a.10150541606580573.649615.71800775572/10154700286535573/?type=1",
+            "content": "Are you guys on Twitter?<br /> <br /> If so, come join the chatter and see what other people are saying about us there!<br /> <br /> <br/>",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413220214,
+            "url": "https://twitter.com/_bethanygordon/status/521792555357179904",
+            "content": "     Bethany Gordon  @_bethanygordon     :<br>Listening to the @beastieboys with these @Sony MDR-10R headphones is delightful. #purchlife @TopTenReviews pic.twitter.com/HkhJUsKR96",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413227706,
+            "url": "https://plus.google.com/103069816617262635621/posts/Zdn2HYnp6ic",
+            "content": "Depending on how much data you need to store for your enterprise, a business cloud storage service could also end up being more cost-effective than other storage solutions. ﻿",
+            "imgUrl": "https://lh5.googleusercontent.com/proxy/_CchKjC57T8zeI2i7VG85wWDXtqCuzic0BYgLrZWw5hIwkI6PTDH88YjPNcCTAnErmP6BQbS5EmYOW2UuKCyfBktptjWG3Tn4xCYU3R8ArmhHV2AXVPmwww5o_U=w506-h303",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413228407,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154699275785573&id=71800775572",
+            "content": "Complete review on this beautiful gaming rig!<br /> <br /> via <br/>Find out why the CyberPowerPC Zeus Evo was ranked #1! http://oak.ctx.ly/r/1uyg0",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413207027,
+            "url": "https://twitter.com/TopTenTech/status/521737247112970240",
+            "content": "     Top Ten Reviews Tech  @TopTenTech     :<br>Find out why the @CyberPowerPC Zeus Evo was ranked #1! http://oak.ctx.ly/r/1uyfi&nbsp; pic.twitter.com/MblrYv1KKo",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413213668,
+            "url": "https://plus.google.com/103069816617262635621/posts/AvtxhEBXX6x",
+            "content": "What does it take to become an industry leader?﻿",
+            "imgUrl": "https://lh3.googleusercontent.com/proxy/QqyAIKUX7Sx68gKgxGZIrl1UMqOwoqB442OEArW2_G3PQYIj-oQSWa2BVPU9Z-CY0GtRv_PnrAyWfhVSEv4Ez86f7x5jkS_Ccn88KLeiD-aStB6jbk00Gw=w506-h303-p",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413218568,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154698489660573&id=71800775572",
+            "content": "Is this considered spying, over-protective, or just healthy concern?<br/><br/>Checking out your kids&#039; online presence is par for the course, but when does it get out of hand? While it might alert you to negative activities, it could also ruin trust in the parent-child relationship.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413198770,
+            "url": "https://twitter.com/TopTenReviews/status/521702611947249666",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Is this considered spying, over-protective, or just healthy concern? http://oak.ctx.ly/r/1uwzl&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413154813,
+            "url": "https://plus.google.com/103069816617262635621/posts/2SJnfxJHeyx",
+            "content": "Ever thought of starting a franchise? Franchises For Every Budget <a href=\"http://oak.ctx.ly/r/1ut5t\">http://oak.ctx.ly/r/1ut5t</a>﻿",
+            "imgUrl": "https://lh3.googleusercontent.com/-vr9zkBvEH1o/VDsH_HKzqsI/AAAAAAAACw0/eFBptAgy0zk/w506-h750/google_img20141012-22469-10otkmw.jpg%253F1392241450",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413201614,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154697445330573&id=71800775572",
+            "content": "Dont&#039; let editing be the weak link in your video production! <br /> <br /> 2014 Best Video Editing Programs here:<br/><br/>Looking for the best and cheapest professional video editing software? We have expert reviews and feature comparisons of the best pro video editors.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413181808,
+            "url": "https://twitter.com/TopTenReviews/status/521631469869879296",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Dont&#39; let editing be the weak link in your video production! &#10;&#10;2014 Best Video Editing Programs here: http://oak.ctx.ly/r/1uuqx&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413137719,
+            "url": "https://plus.google.com/103069816617262635621/posts/jNmtYYvN7q5",
+            "content": "Get the best content management system for your business: <a href=\"http://oak.ctx.ly/r/1usbx\">http://oak.ctx.ly/r/1usbx</a> ﻿",
+            "imgUrl": "https://lh6.googleusercontent.com/-PAKiFC-QtwU/VDrFNi8hYoI/AAAAAAAACwE/T9hdMFLJm6I/w506-h750/google_img20141012-25599-rdw9to.png",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413162008,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154695549410573&id=71800775572",
+            "content": "Is your Mac backed up if something happens?<br/><br/>Looking for the best and cheapest Mac backup software? We have expert reviews and feature comparisons of the top Apple backup software.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413142209,
+            "url": "https://twitter.com/TopTenReviews/status/521465380347207681",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Is your Mac backed up if something happens? #backup @bombichsoftware http://oak.ctx.ly/r/1utid&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413126914,
+            "url": "https://plus.google.com/103069816617262635621/posts/htcmhr7TDw7",
+            "content": "5 Takeaways from the Benchmark Report on B2B Content Marketing <a href=\"http://oak.ctx.ly/r/1urpv\">http://oak.ctx.ly/r/1urpv</a>﻿",
+            "imgUrl": "https://lh4.googleusercontent.com/-vb1tChwc_Sg/VDqbABv52qI/AAAAAAAACvY/sHJbTXjj1Gg/w506-h750/google_img20141012-2561-2g2ewq.png%253Ft%253D1412871638000",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413147609,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154694583115573&id=71800775572",
+            "content": "Struggling to find the time to get all your work done?<br /> <br /> Consider outsourcing things that can be done online to a virtual assistant!<br/><br/>Virtual Assistants Review- Top Virtual Assistants Review Reviewed, 2014",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413127809,
+            "url": "https://twitter.com/TopTenReviews/status/521404983372029953",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Struggling to get everything done?&#10;&#10;Consider outsourcing things that can be done online to a virtual assistant! http://oak.ctx.ly/r/1usur&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413068414,
+            "url": "https://plus.google.com/103069816617262635621/posts/1ka2gnuwHwc",
+            "content": "Pinspiration: Social Media Plays Growing Role in Halloween Shopping <a href=\"http://oak.ctx.ly/r/1uqc5\">http://oak.ctx.ly/r/1uqc5</a>﻿",
+            "imgUrl": "https://lh3.googleusercontent.com/-j3JYuy2FkyA/VDm2fUnMI9I/AAAAAAAACuo/u-6MTQEuk_M/w506-h750/google_img20141011-18488-18lal29.jpg%253F1412883086",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413133208,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154693507460573&id=71800775572",
+            "content": "HAM Radios can transmit using very little power, and don&#039;t require traditional communications infrastructure. <br /> <br /> This makes them a great form of backup communication in emergencies!<br/><br/>Looking for the best and cheapest ham radio? We have expert reviews and feature comparisons of the top amateur radios.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413113407,
+            "url": "https://twitter.com/TopTenReviews/status/521344576204726273",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>HAM Radios are a great form of backup communication in emergencies! http://oak.ctx.ly/r/1us1w&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413054011,
+            "url": "https://plus.google.com/103069816617262635621/posts/UybXqSHEQbr",
+            "content": "What exactly can you do with live chat support software? <a href=\"http://oak.ctx.ly/r/1upom\">http://oak.ctx.ly/r/1upom</a>﻿",
+            "imgUrl": "",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413120608,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154692652605573&id=71800775572",
+            "content": "Need to order a new pair of contact lenses? <br /> <br /> We recommend Coastal Contacts! <br /> <br /> Here&#039;s why:<br/><br/>Looking for the best and cheapest contact lenses? We have expert reviews and feature comparisons of the top online contact sites.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413100808,
+            "url": "https://twitter.com/TopTenReviews/status/521291730662858752",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Need to order a new pair of contact lenses? &#10;&#10;We recommend @Coastaldotcom! &#10;&#10;Here&#39;s why: http://oak.ctx.ly/r/1urei&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1413040513,
+            "url": "https://plus.google.com/103069816617262635621/posts/SZqM7mTHe8B",
+            "content": "Microsoft Sway: Create Business Presentations on Your Smartphone <a href=\"http://oak.ctx.ly/r/1uosw\">http://oak.ctx.ly/r/1uosw</a>﻿",
+            "imgUrl": "https://lh3.googleusercontent.com/-XVbm2k9tCgo/VDlJgK6Zq8I/AAAAAAAACuE/lO6pQQOeArA/w506-h750/google_img20141011-9334-1qv8ruu.jpg%253F1412824416",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413071107,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154690333380573&id=71800775572",
+            "content": "ADT vs Vivint: Who wins the home security battle?<br/><br/>ADT vs Vivint  for the best home monitoring experience. One offers real time monitoring, while the other offers more equipment options. Read for more info.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413051307,
+            "url": "https://twitter.com/TopTenReviews/status/521084110442221571",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>ADT vs Vivint: Who wins the home security battle? http://oak.ctx.ly/r/1uqg2&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412982910,
+            "url": "https://plus.google.com/103069816617262635621/posts/XucuMuRH2Ud",
+            "content": "Here are 10 books every business owner should read.﻿",
+            "imgUrl": "https://lh5.googleusercontent.com/proxy/dv7k4vzuGYkv9FhSPKVgvZMLxC5zoiw-LvHKHhN9QphGUXGHxZ2edZAySfzfbnZFb53KNBODjtTSyPE0lqEeOiidWG5FbQEpStfwjtOOlN0hYcZQQHBh1aAZ=w120-h120",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413054010,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154689225190573&id=71800775572",
+            "content": "Can a DIY home security system be just as good as a professionally-monitored one?<br/><br/>The Ultimate Guide to DIY Security gives you exactly what you need to know about purchasing, installing, and monitoring your security equipment.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413034212,
+            "url": "https://twitter.com/TopTenReviews/status/521012408437846017",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Can a DIY home security system be just as good as a professionally-monitored one? http://oak.ctx.ly/r/1uppp&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412974815,
+            "url": "https://plus.google.com/103069816617262635621/posts/gK9pYoS1coQ",
+            "content": "10 Leadership Tips for Young Entrepreneurs <a href=\"http://oak.ctx.ly/r/1ulh7\">http://oak.ctx.ly/r/1ulh7</a>﻿",
+            "imgUrl": "https://lh6.googleusercontent.com/-8izgZTDBV14/VDhI3pH_gwI/AAAAAAAACtk/O5YEehoqOWw/w506-h750/google_img20141010-17317-si0o5a.png",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413041408,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154688409875573&id=71800775572",
+            "content": "Volusion vs. Shopify: Who wins the shopping cart battle?<br/><br/>We put Volusion up against Shopify ecommerce software. Find out which one is superior.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413021608,
+            "url": "https://twitter.com/TopTenReviews/status/520959542973059072",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Volusion vs. Shopify: Who wins the shopping cart battle? http://oak.ctx.ly/r/1uou9&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412953206,
+            "url": "https://plus.google.com/103069816617262635621/posts/C3YhjXYFN6r",
+            "content": "“Things work out best for those who make the best of how things work out.” ~ John Wooden﻿",
+            "imgUrl": "",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1413028810,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154687653000573&id=71800775572",
+            "content": "Hostgator vs. Bluehost: Who wins the hosting battle?<br/><br/>Find out which is better HostGator or Bluehost.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1413009009,
+            "url": "https://twitter.com/TopTenReviews/status/520906696529420288",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Hostgator vs. Bluehost: Who wins the #hosting battle? http://oak.ctx.ly/r/1uo6j&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412892020,
+            "url": "https://plus.google.com/103069816617262635621/posts/QnuMpNuy5Ee",
+            "content": "Finding a Window of Opportunity When Life Closes a Door <a href=\"http://oak.ctx.ly/r/1ucxh\">http://oak.ctx.ly/r/1ucxh</a>﻿",
+            "imgUrl": "https://lh4.googleusercontent.com/-1mlTSKutGGM/VDcFc_QJ-vI/AAAAAAAACs8/2fWl9AzPT44/w506-h750/google_img20141009-13316-17l22jc.png",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412991008,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154685998995573&id=71800775572",
+            "content": "The Strati was the world&#039;s first 3D printed car.<br /> <br /> What&#039;s next? Planes?!<br/><br/>Looking for the best industrial 3d printers? We have expert reviews and feature comparisons of the top commercial 3d printers.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412971209,
+            "url": "https://twitter.com/TopTenReviews/status/520748151863386112",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>The Strati was the world&#39;s first 3D printed car.&#10;&#10;What&#39;s next? Planes?! http://oak.ctx.ly/r/1unf1&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412866826,
+            "url": "https://plus.google.com/103069816617262635621/posts/4D1iTRbnFyA",
+            "content": "Finding Your Customers on Social Media <a href=\"http://oak.ctx.ly/r/1u8kb\">http://oak.ctx.ly/r/1u8kb</a>﻿",
+            "imgUrl": "https://lh4.googleusercontent.com/-KO9NMvYu67Y/VDajBR-MauI/AAAAAAAACsY/N3Dh_HrHPMo/w506-h750/google_img20141009-21893-1kennh8.jpg",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412962020,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154684184030573&id=71800775572",
+            "content": "Love these kitchens!<br /> <br /> Some great ideas for your next remodel!<br /> <br /> via and <br/>www.houzz.com<br/>Rob Karosis, Photographer",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412947812,
+            "url": "https://twitter.com/TopTenTech/status/520650021159440384",
+            "content": "     Top Ten Reviews Tech  @TopTenTech     :<br>GPS trackers enable you to keep track of the people and things that are most important to you: http://oak.ctx.ly/r/1ujus&nbsp; pic.twitter.com/2nOjzsHL9e",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412805610,
+            "url": "https://plus.google.com/103069816617262635621/posts/bTw6CueDCUX",
+            "content": "As a small business owner, creating images for social media can be time consuming, but fortunately these tools can help.﻿",
+            "imgUrl": "https://lh3.googleusercontent.com/proxy/ZTAZk-er9jNRem0-Efmug2HD128IEVwwZ1ELr1VW-u2NaZPJrQiCRugJ557JFjv3FFka54B4olJWGSuZqDyeKyiI_C11WZm0TxMx_F6uKdQqomUl6Pd3AKSJJpbaa2sKmS8XVIau5kjgmw=w506-h303-p",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412942408,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154682973270573&id=71800775572",
+            "content": "Best anti-virus software:<br /> <br /> A) Kaspersky<br /> B) Norton<br /> C) Neither<br/><br/>Check out our showdown of top antivirus applications: Kaspersky vs Norton.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412937044,
+            "url": "https://twitter.com/stateofk8/status/520604856617152512",
+            "content": "     Kate Keipp  @stateofk8     :<br>Here at @TopTenReviews we don&#39;t just work our fingers to the bone. pic.twitter.com/x6GyHFHyku",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412794812,
+            "url": "https://plus.google.com/103069816617262635621/posts/6iYCcrTJJWy",
+            "content": "&quot;Our chief want is someone who will inspire us to be what we know we could be.&quot; ~ Ralph Waldo Emerson﻿",
+            "imgUrl": "https://lh6.googleusercontent.com/-CnuIX9ZidbY/VDWJu21BXUI/AAAAAAAACrk/gD0HVFTFKeI/w506-h750/google_img20141008-13372-mh14el.png",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412906417,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154681365745573&id=71800775572",
+            "content": "What&#039;s the median salary for a doctor?<br /> <br /> a) $85,000<br /> b) $119,000<br /> c) $175,000 <br /> d) $220,000<br /> <br /> Salaries and complete pros and cons of the best medical careers here:<br/><br/>Looking for an advanced career in medicine? We have expert reviews and feature comparisons of the best medical field jobs.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412922609,
+            "url": "https://twitter.com/TopTenReviews/status/520544311851503616",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Best anti-virus software:&#10;&#10;A) Kaspersky&#10;B) Norton&#10;C) Neither http://oak.ctx.ly/r/1ufke&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412780411,
+            "url": "https://plus.google.com/103069816617262635621/posts/CQcbqJv5hLL",
+            "content": "Matt Hemeyer and Eric Salenski are the founders and only employees of Addition, a company that sells handcrafted liquid spices for cocktails and beer.﻿",
+            "imgUrl": "https://lh5.googleusercontent.com/proxy/gI-22zJHtMW_41243lFbHUsLJrwiGMyuKGBi8iCWflilayyAUsxaYUYt7fVV4BNNQFKRdp0eom9FoDHj3vZAE0J9oCZ_08-0UmVIr3sUZar8A5XO4B0roNaisbKAEaOe-_gT5Et-DJGQN81LZcVg=w506-h303",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412894989,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154680681945573&id=71800775572",
+            "content": "Taking your brick and mortar business online opens up the wide world of 24 hour commerce!<br/><br/>Looking to accept credit cards online? We have easy-to-read, expert unbiased reviews and feature comparisons of the best and cheapest services.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412886618,
+            "url": "https://twitter.com/TopTenReviews/status/520393351539855360",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>What&#39;s the median salary for a doctor?&#10;&#10;Salaries and complete pros and cons of the best medical careers here: http://oak.ctx.ly/r/1ued2&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412719211,
+            "url": "https://plus.google.com/103069816617262635621/posts/bBeJJDkduFy",
+            "content": "Understanding Credit to Achieve Business Success <a href=\"http://oak.ctx.ly/r/1twad\">http://oak.ctx.ly/r/1twad</a>﻿",
+            "imgUrl": "",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412884183,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154679957895573&id=71800775572",
+            "content": "According to &#039;Crime In America&#039;, there are more than 2,000,000 burglaries in America each year. <br /> <br /> Free DIY Home Security Guide:<br/><br/>The Ultimate Guide to DIY Security gives you exactly what you need to know about purchasing, installing, and monitoring your security equipment.",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412875187,
+            "url": "https://twitter.com/TopTenReviews/status/520345406870286336",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>Taking your brick and mortar business online opens up the wide world of 24 hour commerce! http://oak.ctx.ly/r/1udf3&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412708408,
+            "url": "https://plus.google.com/103069816617262635621/posts/6599z5CcHAh",
+            "content": "Is CRM software right for your business?﻿",
+            "imgUrl": "https://lh6.googleusercontent.com/proxy/b9j-iHGrg9SSJVXwEgUrCsslA5o1VW9EvgDJK99UsCjpfkdfdJ_dWQz0YqWEJ3SE-xmG80t6idkHwxBJr2n3KlhWhOaDtyKiQUe6MjzeDwWNWKdIlzbtULfDrA=w506-h303",
+            "feed": "gp"
+        },
+        {
+            "timeStamp": 1412868190,
+            "url": "http://www.facebook.com/permalink.php?story_fbid=10154678889785573&id=71800775572",
+            "content": "Wow, the iPhone 6 Plus scored surprisingly low on the 10 point scale...<br/><br/>The iPhone 6 Plus is bigger than other devices with comparable, 5.5-inch screens, but everything else about Apple&#039;s latest is amazing. http://oak.ctx.ly/r/1u8kn",
+            "feed": "fb"
+        },
+        {
+            "timeStamp": 1412864383,
+            "url": "https://twitter.com/TopTenReviews/status/520300090775183360",
+            "content": "     Top Ten Reviews  @TopTenReviews     :<br>According to @Crimeinamerica there are 2,000,000 burglaries in America each year. http://oak.ctx.ly/r/1ubrs&nbsp;",
+            "feed": "tw"
+        },
+        {
+            "timeStamp": 1412694017,
+            "url": "https://plus.google.com/103069816617262635621/posts/S8vN1woMt8w",
+            "content": "Lenovo Yoga 11e Chromebook: Top 3 Business Features <a href=\"http://oak.ctx.ly/r/1tra3\">http://oak.ctx.ly/r/1tra3</a>﻿",
+            "imgUrl": "https://lh4.googleusercontent.com/-DI_q64mQ76I/VDP__50hpII/AAAAAAAACrE/iAIXqqqlrJw/w506-h750/google_img20141007-18266-fsowql.jpg%253F1412395353",
+            "feed": "gp"
+        }
+    ]
+}

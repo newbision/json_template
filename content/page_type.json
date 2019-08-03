@@ -1,0 +1,51 @@
+{
+	"slug": "pos-systems-review/pros-and-cons-of-accepting-bitcoin-payments-at-the-point-of-sale.html",
+    "mousetracks": [
+			{
+	            "name": "Electronics",
+	            "url": "electronics.toptenreviews.com/",
+	            "depth": 0,
+	        },
+	        {
+	            "name": "Computers",
+	            "url": "computers.toptenreviews.com/",
+	            "depth": 1,
+	        },
+	        {
+	        	"name": "POS Systems",
+	            "url": "pos-systems-review.toptenreviews.com/",
+	            "depth": 2,
+	        },
+	        {
+	        	"name": "Learning Center",
+	        	"depth": 3,
+	        }
+		],
+	"seo": {
+			"og_type": "article",
+			"description": "Examine the pros and cons of accepting Bitcoin payments for goods and services, and about reporting gains/losses experienced from converting virtual monies to &ldquo;real&rdquo; monies to the IRS.",
+			"twitter_card": "summary",
+			"page_title": "Pros and Cons of Accepting Bitcoin Payments at the Point of Sale - TopTenREVIEWS",
+			"canonical": "http://pos-systems-review.toptenreviews.com/pros-and-cons-of-accepting-bitcoin-payments-at-the-point-of-sale.html"
+		},
+	"dfp": {
+		"zone": "/10518929/tmn.ttr/ele-4/com-54/pos-134",
+		"ad_keywords": ""
+		},
+	"omniture": {
+		"pageName": "elec:compu:pos_systems134:articles", //s.hier1 + Content Type:Content Type 2
+		"server": "",
+		"channel": "elec", //Channel
+		"prop1":"elec:compu", //Sub Channels
+		"prop2": "elec:compu:pos_systems134", //Sites
+		"prop3": "elec:compu:pos_systems134", //Categories
+		"prop16": "elec:compu:pos_systems134", //Sub Categories
+		"prop18": "", //Product
+		"prop4": "articles", //Content Type
+		"prop17": "articles", //Content Type 2
+		"prop5": "Pros and Cons of Accepting Bitcoin Payments at the Point of Sale", //Content Title
+		"prop6": "8689", //Content ID
+		"prop15": "Anonymous", //Logged in status
+		"hier1": "elec:compu:pos_systems134"
+	}
+}

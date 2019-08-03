@@ -1,0 +1,46 @@
+{
+	"slug": "pos-systems-review.toptenreviews.com/learning-center.html",
+	"guid": "15_20",
+	"doc_type": "learning_center_portal",
+	"page_header": "POS Systems Learning Center",
+	"meta_data": {
+		"mousetracks": [
+			{
+	            "name": "Electronics",
+	            "url": "http://electronics.toptenreviews.com/",
+	            "depth": 0
+	        },
+	        {
+	            "name": "Computers",
+	            "url": "http://computers.toptenreviews.com/",
+	            "depth": 1
+	        },
+	        {
+	        	"name": "POS Systems",
+	            "url": "http://pos-systems-review.toptenreviews.com/",
+	            "depth": 2
+	        },
+	        {
+	        	"name": "Learning Center",
+	        	"depth": 3
+	        }
+		],
+		"url": "http://pos-systems-review.toptenreviews.com/learning-center.html",
+		"seo": {
+			"og_type": "article",
+			"description": "Looking for the best POS System? We have easy-to-read, expert articles on POS Systems in our Learning Center.",
+			"twitter_card": "summary",
+			"page_title": "POS Systems Learning Center"
+		}
+	},
+	"article": {
+		"title": "POS Systems Learning Center",
+		"url": "http://pos-systems-review.toptenreviews.com/learning-center.html",
+        "retarget_pixels": "",
+		"content": "<p>The point-of-sale market is exploding. Innovative, affordable systems are continually being released, making it difficult for small-business owners to know what might work best for their specific needs. Now is an ideal time to migrate to a new solution or to start a new business, since solutions are emerging for any type of business, including those with minimal startup capital. This learning center will explain basic point-of-sale concepts and relevant point-of-sale topics. You can also explore products that may work well for your business, including mobile and tablet solutions.</p><p>Here are the resources available in the Top Ten Reviews POS Systems Learning Center:</p><h2>Learning Center Topics</h2><p>These articles cover basic concepts and compliance issues. If you are not sure where to begin, we suggest you consider the questions in the Where to Start article. After you have a good idea of your specific needs and have established your budget, you can review the types of systems available and learn what type of point-of-sale system might work best for you. You can also factor in additional expenses, such as gift card processing, service fees and PCI compliance fees.</p><h2>POS Systems Articles</h2><p>Our articles cover specialized topics such as loyalty programs and emerging technologies. Developing topics include EMV Chip and PIN card compliance requirements, the pros and cons of processing Bitcoin payments, and mobile phone wallet payment processing. We post new articles regularly as relevant POS topics arise.</p><h2>Reviews</h2><p>Top Ten Reviews has evaluated numerous point-of-sale products, including iPad, retail, Android and online POS. We considered point-of-sale options that offer \"free\" hardware and software for credit card processing as well as those that allow you to choose your own processor. Full systems are evaluated, as well as tablet or mobile options. We will continue to add more reviews as new POS products are released.</p><p>After defining your needs, setting your budget and reviewing our educational material and product reviews, you should be able determine what POS solution will work well for your business.</p>"
+	},
+	"enrichmentFields": {
+		"categories": ["3_39"],
+		"users": ["44_12668"]
+	}
+}

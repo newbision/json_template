@@ -1,0 +1,144 @@
+{
+    "slug": "software.toptenreviews.com",
+    "guid": "46_2",
+    "doc_type": "channel_portal",
+    "meta_data": {
+        "mousetracks": [
+            {
+                "name": "Home",
+                "url": "http://www.toptenreviews.com/",
+                "depth": 0
+            },
+            {
+                "name": "Software",
+                "depth": 1
+            }
+        ],
+        "seo": {
+            "og_type": "article",
+            "og_title": "Software Reviews and Comparisons | Top Ten Reviews",
+            "description": "Visit us for professional reviews and opinions on the software you&#039;ve been searching for. Reviews are complete with product ratings and comparisons.",
+            "twitter_card": "summary",
+            "page_title": "Software"
+        }
+    },
+    "page_header": "Software",
+    "page_intro": "Software is a term that has evolved over the last few years. While it used to apply almost exclusively to data found on a physical disk or CD-ROM in a box, it now can apply to online applications and Software as a Service (SaaS). Nevertheless, whether the software is centrally hosted in the cloud or installed on your physical computer, it is still what makes your hardware work. Our Top Ten Reviews software channel will help you determine which software is best for your business or personal needs.",
+
+    "enrichmentFields": {
+        "portal_tabs":[
+            "46_2_Categories",
+            "46_2_Latest",
+            "46_2_All",
+            "46_2_Articles",
+            "46_2_About"
+        ],
+        "hero_images": [
+            "38_10",
+            "38_11",
+            "38_12",
+            "38_13"
+        ],
+        "featured_comparisons": [
+            "3_20",
+            "3_76",
+            "3_39",
+            "3_78",
+            "3_57"
+        ]
+    }
+},
+
+{
+      "guid":"46_2_Categories",
+      "slug":"software.toptenreviews.com/?Categories",
+      "doc_type": "portal_tab",
+      "link_name":"Categories",
+      "seo": {
+          "og_type": "article",
+          "og_title": "Software Reviews and Comparisons | Top Ten Reviews",
+          "description": "Visit us for professional reviews and opinions on the software you&#039;ve been searching for. Reviews are complete with product ratings and comparisons.",
+          "twitter_card": "summary"
+      }
+},
+
+{
+      "guid":"46_2_Latest",
+      "slug":"software.toptenreviews.com/?Latest",
+      "doc_type": "portal_tab",
+      "link_name":"Latest Comparisons",
+      "seo": {
+          "og_type": "article",
+          "og_title": "Latest Software Reviews",
+          "description": "Visit Top Ten Reviews to read the latest reviews and opinions on Software. Reviews are complete with product ratings and comparisons.",
+          "twitter_card": "summary"
+      }
+},
+
+{
+      "guid":"46_2_All",
+      "slug":"software.toptenreviews.com/?All",
+      "doc_type": "portal_tab",
+      "link_name":"All Comparisons",
+      "seo": {
+          "og_type": "article",
+          "og_title": "All Software Reviews",
+          "description": "Visit Top Ten Reviews to read all the reviews and opinions on Software. Reviews are complete with product ratings and comparisons.",
+          "twitter_card": "summary"
+      }
+},
+
+{
+      "guid":"46_2_Articles",
+      "slug":"software.toptenreviews.com/?Articles",
+      "doc_type": "portal_tab",
+      "link_name":"Articles",
+      "seo": {
+          "og_type": "article",
+          "og_title": "Software Articles",
+          "description": "Visit Top Ten Reviews to read the latest articles on Software. Reviews are complete with product ratings and comparisons.",
+          "twitter_card": "summary"
+      }
+},
+
+{
+      "guid":"46_2_About",
+      "slug":"software.toptenreviews.com/?About",
+      "doc_type": "portal_tab",
+      "link_name":"About Category",
+      "seo": {
+          "og_type": "article",
+          "og_title": "About Software Reviews",
+          "description": "Visit Top Ten Reviews to read how about how we review Software. Reviews are complete with product ratings.",
+          "twitter_card": "summary"
+      },
+      "title":"About Software",
+      "about_intro": "<p>Finding the right software can be a complex decision. Our reviewers carefully evaluate each application and narrow the field down to the most recent versions of top-ranked software. This allows you to make a decision without having to sift through the overwhelming number of available options. We then compare each product side by side so that you can see, at a glance, which software has the features you want.</p>\r\n<p>Our team of experts approaches each piece of software as a consumer would, and looks beyond the sales pitches and the marketing jargon. It doesn't matter if you're looking for the <a href=\"http://anti-virus-software-review.toptenreviews.com/\">best antivirus software</a>, <a href=\"http://photo-editing-software-review.toptenreviews.com/\">best photo editing software</a>, <a href=\"http://personal-finance-software-review.toptenreviews.com/\">best personal finance software</a> or the top choices in <a href=\"http://guitar-lesson-software-review.toptenreviews.com/\">guitar lesson software</a> - this channel covers an extensive variety of suites and applications.</p>",
+        "enrichmentFields": {
+          "users": [
+              "44_2125",
+              "44_12668",
+              "44_15437",
+              "44_17235",
+              "44_26018",
+              "44_26050",
+              "44_26052",
+              "44_26053",
+              "44_26065",
+              "44_26068",
+              "44_26076",
+              "44_26091",
+              "44_26092",
+              "44_26094",
+              "44_26098",
+              "44_26099",
+              "44_26100",
+              "44_26112",
+              "44_26126",
+              "44_26136",
+              "44_26141",
+              "44_26143",
+              "44_26144"
+          ]
+        }
+}
