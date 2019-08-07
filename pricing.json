@@ -1,0 +1,30 @@
+{
+    "guid": "39_324",
+    "product_id": "4_324",
+    "doc_type": "pricing",
+    "status": "Published",
+    "price": 39.99,
+    "affiliate": {
+        "id": 722,
+        "name": "Herman Street",
+        "url": "http://store.hermanstreet.com/dvd-cloner-2015-download/?&ICID=Cloner-2014-11-19dcs"
+    },
+    "can_pass": 0,
+    "exclude_lead_gen_popup": false,
+    "has_price": true,
+    "is_free": false,
+    "matrix_price_text": "Lowest Price",
+    "prod_price_verbiage": "",
+    "matrix_price_verbiage": "",
+    "price_url": "http://www.toptenreviews.com/scripts/trans_id.php?url=http%3A%2F%2Fstore.hermanstreet.com%2Fdvd-cloner-2015-download%2F%3F%26ICID%3DCloner-2014-11-19dcs&p_id=324&param=&q_delimit=0",
+    "vendor_url": "http://store.hermanstreet.com/pc-software/dvd-cloner-2013-download/?&ICID=pin-Cloner-2013-12-2dcs",
+    "button_overrides": {
+        "matrix": "http://cdn.toptenreviews.com/rev/site/buy/m/buy_67.png",
+        "matrix_sticky": "http://cdn.toptenreviews.com/rev/site/buy/ms/buy_67.png",
+        "matrix_mobile": "",
+        "product_top": "http://cdn.toptenreviews.com/rev/site/buy/pt/buy_67.png",
+        "product_bottom": "http://cdn.toptenreviews.com/rev/site/buy/pb/buy_67.png",
+        "product_mobile": "",
+        "comparison_article": ""
+    }
+}

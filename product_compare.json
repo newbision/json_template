@@ -1,0 +1,43 @@
+{
+    "guid": "40_14",
+    "doc_type": "product_comparison",
+    "intro_title": "Know what to look for: VB 100",
+    "intro_text": "The term \"VB 100\" Refers to the definitive test performed by Virus Bulletin, the leading independent anti-virus publication since 1989. Virus Bulletin tests anti-malware products free of charge and, unlike other certification schemes, does not allow re-testing.",
+    "category_id" : "3_39",
+    "article_id": "5_5442",
+    "matrix_id":"37_39",
+    "ratings_ids": [
+        89,
+        90,
+        91
+    ],
+    "feature_ids": [
+        37009,
+        37011,
+        37012,
+        37021,
+        37022,
+        37023,
+        37024
+    ],
+    "products" : [{"id":72,"allow_lead":false},{"id":76,"allow_lead":false}],
+    "allow_no1_lead" : false,
+    "hide_author" : true,
+    "images": {
+        "insert_top": {
+            "img": "rev/compare_articles/ca5442_insert_top.jpg",
+            "url": "http://www.toptenreviews.com/scripts/trans_id.php?url=http://store.hermanstreet.com/pc-software/bitdefender-antivirus-plus-2015-download/?ICID=bitdefender-2014-07-22&p_id=65&param=&q_delimit=0",
+            "no1_buy_btn": false,
+            "allow_lead" : false
+        },
+        "insert_bottom": {
+            "img": "rev/compare_articles/ca5442_insert_bot.jpg",
+            "url": "http://www.toptenreviews.com/scripts/trans_id.php?url=http://store.hermanstreet.com/pc-software/bitdefender-antivirus-plus-2015-download/?ICID=bitdefender-2014-07-22&p_id=65&param=&q_delimit=0",
+            "no1_buy_btn": false,
+            "allow_lead" : false
+        }
+    },
+    "enrichmentFields":{
+        "products":["4_72","4_76"]
+    }
+}
