@@ -1,0 +1,101 @@
+{
+    "guid": "4_324",
+    "doc_type": "product",
+    "id":"324",
+    "category_id": "3_39",
+    "display_name": "DVD Cloner",
+    "model_version": "2015",
+    "release_date": "2013-11-18",
+    "manufacturer": "DVD Cloner",
+    "review_url": "http://dvd-copy-software-review.toptenreviews.com/dvd-cloner-review.html",
+    "specs_url": "http://dvd-copy-software-review.toptenreviews.com/dvd-cloner-details.html",
+    "pdf_link": "prod_324.pdf",
+    "rank":1,
+    "omniture_hier" : "soft:multi:dvd_copy39:dvd_cloner324",
+    "ad_keywords": ["software","burn","DVD Copy","download","Movie","dvd cloner"],
+    "images": {
+        "prod": {"small":"small/324-dvd-cloner-box.jpg","medium":"324-dvd-cloner-box.jpg","large":"large/324-dvd-cloner-box.jpg","ce":"ce/324-dvd-cloner-box.jpg"},
+        "screenshots": [
+            {
+                "images": {"small":"small/324-dvd-cloner1.jpg", "medium":"medium/324-dvd-cloner1.jpg","large":"large/324-dvd-cloner1.jpg"},
+                "caption": "DVD Cloner image: The About screen provides information about the application such as version number and a warning duplicating copyrighted material."
+            },
+            {
+                "images": {"small":"", "medium":"medium/324-dvd-cloner2.jpg","large":"large/324-dvd-cloner2.jpg"},
+                "caption": "DVD Cloner image: The first step of copying any DVD is to insert it into the disc tray."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner3.jpg", "medium":"medium/324-dvd-cloner3.jpg","large":"large/324-dvd-cloner3.jpg"},
+                "caption": "DVD Cloner image: The Express menu allows you to duplicate a disc with a single click."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner4.jpg", "medium":"medium/324-dvd-cloner4.jpg","large":"large/324-dvd-cloner4.jpg"},
+                "caption": "DVD Cloner image: Ripping a feature-length movie off a disc takes a little more than 10 minutes."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner5.jpg", "medium":"medium/324-dvd-cloner5.jpg","large":"large/324-dvd-cloner5.jpg"},
+                "caption": "DVD Cloner image: Burning a ripped movie to a new disc also takes roughly 10 minutes."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner6.jpg", "medium":"medium/324-dvd-cloner6.jpg","large":"large/324-dvd-cloner6.jpg"},
+                "caption": "DVD Cloner image: The entire process in Express mode takes less than half an hour."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner7.jpg", "medium":"medium/324-dvd-cloner7.jpg","large":"large/324-dvd-cloner7.jpg"},
+                "caption": "DVD Cloner image: Expert mode allows you to choose from more advanced copy options."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner8.jpg", "medium":"medium/324-dvd-cloner8.jpg","large":"large/324-dvd-cloner8.jpg"},
+                "caption": "DVD Cloner image: Expert Mode allows you to combine multiple DVDs onto a single Blu-ray disc."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner9.jpg", "medium":"medium/324-dvd-cloner9.jpg","large":"large/324-dvd-cloner9.jpg"},
+                "caption": "DVD Cloner image: If you have a disc image stored on your computer, you can use Expert Mode to burn it to a blank disc."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner10.jpg", "medium":"medium/324-dvd-cloner10.jpg","large":"large/324-dvd-cloner10.jpg"},
+                "caption": "DVD Cloner image: The advanced setup options allow you to fine-tune how the application functions."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner11.jpg", "medium":"medium/324-dvd-cloner11.jpg","large":"large/324-dvd-cloner11.jpg"},
+                "caption": "DVD Cloner image: The Transcode tab enables you to choose what aspects of a disc copy you want to alter."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner12.jpg", "medium":"medium/324-dvd-cloner12.jpg","large":"large/324-dvd-cloner12.jpg"},
+                "caption": "DVD Cloner image: The Read I/O tab allows you to adjust the reading speed of the application."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner13.jpg", "medium":"medium/324-dvd-cloner13.jpg","large":"large/324-dvd-cloner13.jpg"},
+                "caption": "DVD Cloner image: The Burn I/O tab gives you access to the burn speed and DVD writing method."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner14.jpg", "medium":"medium/324-dvd-cloner14.jpg","large":"large/324-dvd-cloner14.jpg"},
+                "caption": "DVD Cloner image: The network tab allows you to enter proxy addresses and ports."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner15.jpg", "medium":"medium/324-dvd-cloner15.jpg","large":"large/324-dvd-cloner15.jpg"},
+                "caption": "DVD Cloner image: This screen gives you access to all of the copy options DVD Cloner has to offer."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner16.jpg", "medium":"medium/324-dvd-cloner16.jpg","large":"large/324-dvd-cloner16.jpg"},
+                "caption": "DVD Cloner image: The Copy Configuration screen is where you review your information before you begin duplication."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner17.jpg", "medium":"medium/324-dvd-cloner17.jpg","large":"large/324-dvd-cloner17.jpg"},
+                "caption": "DVD Cloner image: The Log screen shows you all the tasks the application has performed recently."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner18.jpg", "medium":"medium/324-dvd-cloner18.jpg","large":"large/324-dvd-cloner18.jpg"},
+                "caption": "DVD Cloner image: You have the option to cancel a copy at any time during the process."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner19.jpg", "medium":"medium/324-dvd-cloner19.jpg","large":"large/324-dvd-cloner19.jpg"},
+                "caption": "DVD Cloner image: This application also gives you the ability to burn Blu-ray discs."
+            },
+            {
+                "images": {"small":"small/324-dvd-cloner20.jpg", "medium":"medium/324-dvd-cloner20.jpg","large":"large/324-dvd-cloner20.jpg"},
+                "caption": "DVD Cloner image: When creating a new disc, you may have to select a new menu template."
+            }
+        ]
+    }
+}
