@@ -1,0 +1,21 @@
+{
+    "5": {
+        "templateData": "page html goes here",
+        "dataReq": [
+            {
+                "type": "category",
+                "dataReq": [
+                    {
+                        "type": "product",
+                        "dataReq": []
+                    }
+                ]
+            }
+        ],
+        "pageType": "matrix"
+    },
+    "5_geo_UK": {
+        "templateData": "page html goes here",
+        "dataReq": []
+    }
+}
